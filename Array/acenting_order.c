@@ -1,4 +1,5 @@
 #include<stdio.h>
+//acenting order
 int main()
 {
 	int a[8]={3,2,6,4,7,9,5,10};
