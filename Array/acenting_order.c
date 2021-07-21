@@ -7,7 +7,7 @@ int main()
 	printf("The given number is%d",a[8]);
 	scanf("%d",&size);
 	*i=a[8];
-	//sorting
+	//sorting values
 	for(i=0;i<size;i++)
 	{
 		if(a[i]==a[8])
